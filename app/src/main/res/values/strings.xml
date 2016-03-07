@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidActivityLifeCycle</string>
+    <string name="title_activity_camera_uiselfie">CameraUISelfie</string>
+</resources>
